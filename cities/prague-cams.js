@@ -1,0 +1,1 @@
+window.CAMS={"city":"prague","cams":[{"name":"Street 1","pos":[-1546.7,0,-642.3],"target":[-1496.1,0,-618.0]},{"name":"Street 2","pos":[-1355.9,0,-669.2],"target":[-1345.3,0,-603.3]},{"name":"Street 3","pos":[-1515.6,0,-488.1],"target":[-1496.2,0,-466.7]}]};

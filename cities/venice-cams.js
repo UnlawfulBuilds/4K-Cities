@@ -1,0 +1,1 @@
+window.CAMS={"city":"venice","cams":[{"name":"Street 1","pos":[1579.8,0,424.3],"target":[997.5,0,386.7]},{"name":"Street 2","pos":[1579.8,0,424.3],"target":[997.5,0,386.7]},{"name":"Street 3","pos":[1579.8,0,424.3],"target":[997.5,0,386.7]}]};

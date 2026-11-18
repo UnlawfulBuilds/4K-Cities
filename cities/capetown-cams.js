@@ -1,0 +1,1 @@
+window.CAMS={"city":"capetown","cams":[{"name":"Street 1","pos":[-347.7,0,-943.3],"target":[-80.0,0,-1270.8]},{"name":"Street 2","pos":[116.4,0,-1089.0],"target":[237.7,0,-1321.8]},{"name":"Street 3","pos":[-93.1,0,-970.9],"target":[58.7,0,-1226.7]}]};

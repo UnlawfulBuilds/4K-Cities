@@ -1,0 +1,1 @@
+window.CAMS={"city":"vancouver","cams":[{"name":"Street 1","pos":[-1006.3,0,-3.4],"target":[-565.2,0,-398.4]},{"name":"Street 2","pos":[-1007.9,0,-13.6],"target":[-511.7,0,-416.1]},{"name":"Street 3","pos":[-534.3,0,214.7],"target":[-287.4,0,-223.0]}]};

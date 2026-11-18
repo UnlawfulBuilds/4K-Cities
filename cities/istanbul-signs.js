@@ -1,0 +1,1 @@
+window.SIGNS={"city": "istanbul", "atlas": "istanbul-signs.png", "w": 1024, "h": 4608, "rows": 48, "rowH": 96, "tileW": 1024.0, "names": ["Style Cizgi Hali Saha", "I.B.B Yeni Kapı Spor Tesisleri", "Van Kahvaltı Sofrası", "Pashazade Lounge Cafe", "Avcgroup", "Garden Nargile Cafe"], "attribution": "Place names (c) Overture Maps Foundation; fonts Noto (SIL OFL)"};

@@ -1,0 +1,1 @@
+window.SIGNS={"city": "capetown", "atlas": "capetown-signs.png", "w": 996, "h": 4608, "rows": 48, "rowH": 96, "tileW": 996.0, "names": ["Seagull Powered", "Albert Cottage", "WELLNESS meets EVENTS (W.E)", "CHEZ TEMBA", "That's Not Funny", "Gilmour Hill B&B"], "attribution": "Place names (c) Overture Maps Foundation; fonts Noto (SIL OFL)"};

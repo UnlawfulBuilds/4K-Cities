@@ -1,0 +1,1 @@
+window.CAMS={"city":"madinah","cams":[{"name":"Street 1","pos":[196.6,0,-32.5],"target":[135.8,0,-107.2]},{"name":"Street 2","pos":[58.6,0,-180.1],"target":[119.5,0,-156.6]},{"name":"Street 3","pos":[287.9,0,-9.5],"target":[178.8,0,-36.2]}]};

@@ -1,0 +1,1 @@
+window.SIGNS={"city": "murree", "atlas": "murree-signs.png", "w": 1024, "h": 4608, "rows": 48, "rowH": 96, "tileW": 1024.0, "names": ["Hotel The TajMehal", "BBQ Nights", "Seri Cottage", "Sandian - sunnybank Murree", "Mountain Dairy & Cattle Ranch", "The Rose Mary"], "attribution": "Place names (c) Overture Maps Foundation; fonts Noto (SIL OFL)"};

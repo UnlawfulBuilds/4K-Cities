@@ -1,0 +1,1 @@
+window.SIGNS={"city": "venice", "atlas": "venice-signs.png", "w": 1024, "h": 4608, "rows": 48, "rowH": 96, "tileW": 1024.0, "names": ["Osteria da Toni", "Bar Ristorante san Bagegio", "San Basilio Venezia", "Terminal 2.0", "San Basegio Ristorante", "Associazione Culturale Arte-mide"], "attribution": "Place names (c) Overture Maps Foundation; fonts Noto (SIL OFL)"};

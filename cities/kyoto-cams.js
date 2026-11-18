@@ -1,0 +1,1 @@
+window.CAMS={"city":"kyoto","cams":[{"name":"Street 1","pos":[1688.3,0,1021.8],"target":[1620.3,0,1210.8]},{"name":"Street 2","pos":[1356.1,0,1948.1],"target":[1494.3,0,1758.4]},{"name":"Street 3","pos":[2001.5,0,1435.0],"target":[1804.0,0,1509.7]}]};

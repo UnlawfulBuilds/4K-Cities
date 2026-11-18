@@ -1,0 +1,1 @@
+window.CAMS={"city":"makkah","cams":[{"name":"Street 1","pos":[352.7,0,357.2],"target":[448.7,0,353.9]},{"name":"Street 2","pos":[495.5,0,627.4],"target":[587.9,0,537.8]},{"name":"Street 3","pos":[468.4,0,275.6],"target":[505.3,0,365.2]}]};

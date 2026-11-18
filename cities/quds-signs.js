@@ -1,0 +1,1 @@
+window.SIGNS={"city": "quds", "atlas": "quds-signs.png", "w": 1024, "h": 4608, "rows": 48, "rowH": 96, "tileW": 1024.0, "names": ["The Tayelet Talpiot", "אסף וייצמן עיצוב שיער", "ביפרנה - beefrena", "שייקספיר", "החוג לאומנות מכללת אמונה", "פז"], "attribution": "Place names (c) Overture Maps Foundation; fonts Noto (SIL OFL)"};

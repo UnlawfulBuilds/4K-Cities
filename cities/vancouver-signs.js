@@ -1,0 +1,1 @@
+window.SIGNS={"city": "vancouver", "atlas": "vancouver-signs.png", "w": 1024, "h": 4608, "rows": 48, "rowH": 96, "tileW": 1024.0, "names": ["Cultural Harmony Grove", "Burrard Civic Marina", "Canadian Coast Guard Rescue", "False Creek Fuels", "420 Vancouver", "Whale Ribs - 217.5 Arc X 13"], "attribution": "Place names (c) Overture Maps Foundation; fonts Noto (SIL OFL)"};

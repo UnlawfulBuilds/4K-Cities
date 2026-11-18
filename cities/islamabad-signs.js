@@ -1,0 +1,1 @@
+window.SIGNS={"city": "islamabad", "atlas": "islamabad-signs.png", "w": 1024, "h": 4608, "rows": 48, "rowH": 96, "tileW": 1024.0, "names": ["Islamabad ALMA school", "Ethiopian Embassy", "Khosa Law Chamber", "Madina Park", "Children's House", "Law and Policy Chambers"], "attribution": "Place names (c) Overture Maps Foundation; fonts Noto (SIL OFL)"};

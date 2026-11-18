@@ -1,0 +1,1 @@
+window.CAMS={"city":"quds","cams":[{"name":"Street 1","pos":[1162.3,0,26.1],"target":[921.6,0,-64.0]},{"name":"Street 2","pos":[750.8,0,-305.5],"target":[746.3,0,-223.8]},{"name":"Street 3","pos":[816.4,0,-373.3],"target":[743.4,0,-209.7]}]};

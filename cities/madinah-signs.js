@@ -1,0 +1,1 @@
+window.SIGNS={"city": "madinah", "atlas": "madinah-signs.png", "w": 962, "h": 4608, "rows": 48, "rowH": 96, "tileW": 962.0, "names": ["صراف بنك الجزيره", "نجوم المشاهير كافيه", "Mr.Crab", "Ahmad Faqeeh Villa", "Enjaz", "بنك إنجاز"], "attribution": "Place names (c) Overture Maps Foundation; fonts Noto (SIL OFL)"};

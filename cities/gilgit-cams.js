@@ -1,0 +1,1 @@
+window.CAMS={"city":"gilgit","cams":[{"name":"Street 1","pos":[-1648.2,0,-197.4],"target":[-1387.0,0,-269.2]},{"name":"Street 2","pos":[-1307.9,0,-874.3],"target":[-1151.2,0,-598.8]},{"name":"Street 3","pos":[-1343.5,0,-211.9],"target":[-1223.9,0,-204.7]}]};

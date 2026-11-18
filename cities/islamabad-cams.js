@@ -1,0 +1,1 @@
+window.CAMS={"city":"islamabad","cams":[{"name":"Street 1","pos":[-2440.6,0,-256.1],"target":[-2539.6,0,-764.3]},{"name":"Street 2","pos":[-1930.6,0,-814.9],"target":[-2202.3,0,-1030.4]},{"name":"Street 3","pos":[-2027.5,0,-404.9],"target":[-2326.1,0,-792.4]}]};

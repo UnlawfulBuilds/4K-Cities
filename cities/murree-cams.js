@@ -1,0 +1,1 @@
+window.CAMS={"city":"murree","cams":[{"name":"Street 1","pos":[-483.2,0,-398.8],"target":[-483.6,0,-319.2]},{"name":"Street 2","pos":[-218.2,0,-357.9],"target":[-291.0,0,-273.1]},{"name":"Street 3","pos":[-532.6,0,-214.6],"target":[-519.6,0,-147.7]}]};

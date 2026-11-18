@@ -1,0 +1,1 @@
+window.SIGNS={"city": "makkah", "atlas": "makkah-signs.png", "w": 987, "h": 4608, "rows": 48, "rowH": 96, "tileW": 987.0, "names": ["Cave Of Hira October 2025", "غار حراء", "Hijama Center Eidgaon", "Hira", "الهيثم للسباكة والكهرباء صنعاء", "غار حرا"], "attribution": "Place names (c) Overture Maps Foundation; fonts Noto (SIL OFL)"};

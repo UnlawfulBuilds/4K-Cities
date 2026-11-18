@@ -1,0 +1,1 @@
+window.CAMS={"city":"istanbul","cams":[{"name":"Street 1","pos":[-108.6,0,2157.3],"target":[319.4,0,2221.4]},{"name":"Street 2","pos":[225.5,0,1521.6],"target":[561.1,0,1895.4]},{"name":"Street 3","pos":[-370.9,0,2768.1],"target":[166.4,0,2615.0]}]};

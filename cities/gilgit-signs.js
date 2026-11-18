@@ -1,0 +1,1 @@
+window.SIGNS={"city": "gilgit", "atlas": "gilgit-signs.png", "w": 1024, "h": 4608, "rows": 48, "rowH": 96, "tileW": 1024.0, "names": ["Medicine Mart", "Khomer Peace Point", "Khomer Yarkot Gilgit", "CEENA Health and Welfare Services", "Rupal Inn", "United Sonikote"], "attribution": "Place names (c) Overture Maps Foundation; fonts Noto (SIL OFL)"};

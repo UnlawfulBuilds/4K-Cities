@@ -1,0 +1,1 @@
+window.SIGNS={"city": "prague", "atlas": "prague-signs.png", "w": 1024, "h": 4608, "rows": 48, "rowH": 96, "tileW": 1024.0, "names": ["UTXO Prague", "Klášter sv. Gabriela", "Česká pošta", "Malakim", "Studio In The Circles", "Povodí Vltavy"], "attribution": "Place names (c) Overture Maps Foundation; fonts Noto (SIL OFL)"};

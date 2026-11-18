@@ -1,0 +1,1 @@
+window.SIGNS={"city": "kyoto", "atlas": "kyoto-signs.png", "w": 1024, "h": 4608, "rows": 48, "rowH": 96, "tileW": 1024.0, "names": ["平清盛公 西八条第跡 石碑", "京都音楽博覧会", "イルカスタジアム", "京都水族館", "ハーベストカフェ", "市電ひろば"], "attribution": "Place names (c) Overture Maps Foundation; fonts Noto (SIL OFL)"};
